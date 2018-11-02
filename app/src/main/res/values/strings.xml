@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Optima</string>
+    <string name="recognize_button">Recognize</string>
+
+    <string name="permission_camera_denied">Permission camera denied</string>
+    <string name="permission_camera_neverask">Never ask again camera permission</string>
+    <string name="permission_camera_rationale">Permission camera rationale</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="social">Canali di assistenza digitale</string>
+    <string name="table">Stato amministrativo</string>
+    <string name="alan">Benevento in Optima, di seguito i servizi attivi e le comunicazioni importanti per te questo mese!</string>
+
+    <!--CircleView-->
+    <string name="luce">Luce</string>
+    <string name="gas">Gas</string>
+    <string name="fisso">Fisso</string>
+    <string name="internet">Internet</string>
+    <string name="mobile">Mobile</string>
+
+</resources>

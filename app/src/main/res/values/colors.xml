@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#F44336</color>
+
+    <color name="colorDialogBkg">#e4ebed</color>
+    <color name="colorDialogBorder">#b1bfc6</color>
+    <color name="colorText">#505050</color>
+
+    <!--CircleView-->
+    <color name="colorTextAlan">#1574A1</color>
+    <color name="color_disableTextAlan">#c7c7c7</color>
+</resources>
